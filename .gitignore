@@ -1,0 +1,6 @@
+# Ignora a pasta bin e obj (arquivos gerados pela compilação)
+bin/
+obj/
+
+# Ignora a pasta .idea (configurações do JetBrains)
+.idea/

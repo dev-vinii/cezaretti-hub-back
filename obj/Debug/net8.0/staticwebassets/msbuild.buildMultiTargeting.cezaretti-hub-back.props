@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/cezaretti-hub-back.props" />
-</Project>
