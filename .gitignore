@@ -4,3 +4,6 @@ obj/
 
 # Ignora a pasta .idea (configurações do JetBrains)
 .idea/
+
+# Ignora o arquivo appsettings.json (configurações do projeto)
+appsettings.json
