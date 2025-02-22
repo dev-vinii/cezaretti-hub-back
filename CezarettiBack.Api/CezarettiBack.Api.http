@@ -1,0 +1,6 @@
+@CezarettiBack.Api_HostAddress = http://localhost:5022
+
+GET {{CezarettiBack.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
